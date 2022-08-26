@@ -1,5 +1,7 @@
 # WhoAMIWordPuzzleGame
 
+[1](https://secureservercdn.net/160.153.137.128/5g2.104.myftpupload.com/wp-content/uploads/2022/08/screen1-591x1024.png)
+
 **Privacy Policy**
 
 Tim Tang built the Who Am I Puzzle Game app as a Free app. This SERVICE is provided by Tim Tang at no cost and is intended for use as is.
