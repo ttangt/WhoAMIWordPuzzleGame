@@ -1,5 +1,9 @@
 # WhoAMIWordPuzzleGame
 
+## Instruction
+
+While Unity is the most common tool to build game app, Thunkable is an easy tool to build small app by no code method. We use Thunkable to build a small game app such that the player will controls a car to spell the word. And They will get score if they spell the words correctly. This app is for entertainment only.
+
 ![MenuScreen](https://secureservercdn.net/160.153.137.128/5g2.104.myftpupload.com/wp-content/uploads/2022/08/screen1-591x1024.png)
 
 ![PlayScreen](https://secureservercdn.net/160.153.137.128/5g2.104.myftpupload.com/wp-content/uploads/2022/08/screen2-597x1024.png)
