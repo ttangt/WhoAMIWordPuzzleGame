@@ -1,6 +1,6 @@
 # WhoAMIWordPuzzleGame
 
-[1](https://secureservercdn.net/160.153.137.128/5g2.104.myftpupload.com/wp-content/uploads/2022/08/screen1-591x1024.png)
+![1](https://secureservercdn.net/160.153.137.128/5g2.104.myftpupload.com/wp-content/uploads/2022/08/screen1-591x1024.png)
 
 **Privacy Policy**
 
